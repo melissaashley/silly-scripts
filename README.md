@@ -1,2 +1,3 @@
 # silly-scripts
-might as well backup the random scripts i create
+
+This is simply a backup of all the greasyfork scripts I create for various sites (which are totally lame I know).
